@@ -71,10 +71,10 @@ li ul {
 /* efecto hover deplegar subitems */
 
 
-/* li ul{
+li ul{
     display: none;
     
 }
 li:hover ul{
     display: block;
-} */
+}
